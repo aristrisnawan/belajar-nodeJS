@@ -1,1 +1,5 @@
-[{"nama":"aris","email":"aris@gmail.com","noHP":"054674"},{"nama":"maman","noHP":"054674"},{"nama":"ahmad","email":"aris@gmail.c","noHP":"054674"},{"nama":"mandra","email":"aris@gmail.com","noHP":"082117295505"}]
+[
+  { "nama": "aris", "email": "aris@gmail.com", "noHP": "054674" },
+  { "nama": "ahmad", "email": "aris@gmail.c", "noHP": "054674" },
+  { "nama": "mandra", "email": "aris@gmail.com", "noHP": "082117295505" }
+]
